@@ -26,8 +26,7 @@
         }
     ],
     "require": {
-        "dnadesign/silverstripe-elemental": "^6",
-        "silverstripe/framework": "^6"
+        "dnadesign/silverstripe-elemental": "^6"
     },
     "require-dev": {
         "silverstripe/recipe-testing": "^3"
