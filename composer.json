@@ -1,5 +1,5 @@
 {
-    "name": "dynamic/silverstripe-elemental-embedded-code",
+    "name": "rowegroup/silverstripe-elemental-embedded-code",
     "description": "Embed code like iFrames or Javascript on a page.",
     "license": "BSD-3-Clause",
     "type": "silverstripe-vendormodule",
